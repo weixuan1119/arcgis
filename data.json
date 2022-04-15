@@ -1,0 +1,107 @@
+[
+  {
+    "country": "Afghanistan",
+    "type": "Civil War/Terrorist Insurgency",
+    "casualtyRange": 10001
+  },
+  {
+    "country": "Algeria",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Burkina Faso",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Cameroon",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Chad",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Colombia",
+    "type": "Civil War/Drug War",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "DR Congo",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Ethiopia",
+    "type": "Civil War",
+    "casualtyRange": 10001
+  },
+  {
+    "country": "Iraq",
+    "type": "Terrorist Insurgency/Political Unrest",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Libya",
+    "type": "Civil War",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Mali",
+    "type": "Civil War/Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Mexico",
+    "type": "Drug War",
+    "casualtyRange": 10001
+  },
+  {
+    "country": "Mozambique",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Myanmar",
+    "type": "Civil War",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Niger",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Nigeria",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "South Sudan",
+    "type": "Ethnic Violence",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Syria",
+    "type": "Civil War",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Tanzania",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Tunisia",
+    "type": "Terrorist Insurgency",
+    "casualtyRange": 5000
+  },
+  {
+    "country": "Yemen",
+    "type": "Civil War",
+    "casualtyRange": 10001
+  }
+]
